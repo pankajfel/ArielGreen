@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079919791727",
+    "firebase_url": "https://neonteal-fel.firebaseio.com",
+    "project_id": "neonteal-fel",
+    "storage_bucket": "neonteal-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079919791727:android:7bee5ee251e48ba30e079a",
+        "android_client_info": {
+          "package_name": "com.fel.neonteal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079919791727-6sme6uuaon2rei88md8ftk6fa19vpfrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.neonteal",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1079919791727-gs7msqf81f0jjcfklfesmnctt0tsp20k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDrSVHMOpZVXUtE_nNgo9ePOD9TJJeFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079919791727-gs7msqf81f0jjcfklfesmnctt0tsp20k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

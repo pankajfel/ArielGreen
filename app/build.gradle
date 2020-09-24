@@ -1,0 +1,119 @@
+apply plugin: 'com.android.application'
+
+String felVersionCode = '148'
+
+String felVersionName = '14.8'
+
+Properties keystoreProperties = new Properties()
+File keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
+
+    defaultConfig {
+        applicationId 'com.fel'
+        minSdkVersion 19
+        targetSdkVersion 30
+        versionCode felVersionCode.toInteger()
+        versionName felVersionName
+        archivesBaseName = "$archivesBaseName"
+        multiDexEnabled true
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+        defaultConfig {
+            renderscriptTargetApi 29 //must match target sdk and build tools
+            renderscriptSupportModeEnabled true
+            vectorDrawables.useSupportLibrary = true
+        }
+        ndk {
+            abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
+        }
+    }
+
+    flavorDimensions 'version'
+
+    productFlavors {
+
+        flavourTHEVOID {
+            applicationIdSuffix '.thevoid'
+        }
+
+        flavourHALFLIME {
+            applicationIdSuffix '.halflime'
+        }
+
+        flavourFINESTREAM {
+            applicationIdSuffix '.finestream'
+        }
+
+        flavourNEOTECH {
+            applicationIdSuffix '.neotech'
+        }
+
+        flavourNEONTEAL {
+            applicationIdSuffix '.neonteal'
+        }
+
+        flavourBLUEWINTER {
+            applicationIdSuffix '.bluewinter'
+        }
+
+        flavourGREENTIME {
+            applicationIdSuffix '.greentime'
+        }
+
+        flavourGRAYSEA {
+            applicationIdSuffix '.graysea'
+        }
+
+        flavourREDVALVET {
+            applicationIdSuffix '.redvalvet'
+        }
+
+        flavourSUPERMINT {
+            applicationIdSuffix '.supermint'
+        }
+
+        flavourMINTBLUE {
+            applicationIdSuffix '.mintblue'
+        }
+
+    }
+
+    signingConfigs {
+        release {
+            keyAlias keystoreProperties['keyAlias']
+            keyPassword keystoreProperties['keyPassword']
+            storeFile file(keystoreProperties['storeFile'])
+            storePassword keystoreProperties['storePassword']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    //firebase
+    implementation 'com.google.firebase:firebase-analytics:17.5.0'
+
+    //design
+    implementation 'com.google.android.material:material:1.2.1'
+
+}

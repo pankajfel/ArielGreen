@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399745683949",
+    "firebase_url": "https://graysea-fel.firebaseio.com",
+    "project_id": "graysea-fel",
+    "storage_bucket": "graysea-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399745683949:android:8935c5f496be4b1ee3d7e4",
+        "android_client_info": {
+          "package_name": "com.fel.graysea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399745683949-vr0m37d3ei3t3v34hhrjagjc15a7jruc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.graysea",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "399745683949-pbv2goee8odj2tfcmqaejuhe1b0324d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0y8yNrATVBo71jnwAhz5cNosC00cnJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399745683949-pbv2goee8odj2tfcmqaejuhe1b0324d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

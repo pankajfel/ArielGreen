@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271358341407",
+    "firebase_url": "https://mintblue-fel.firebaseio.com",
+    "project_id": "mintblue-fel",
+    "storage_bucket": "mintblue-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271358341407:android:788d8ffe29b5889732402a",
+        "android_client_info": {
+          "package_name": "com.fel.mintblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271358341407-n93gtk3kqetmpfsk0jr0knikcirsgr1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.mintblue",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "271358341407-3ems1k5bdl3ae26fe4qmku723f9dffp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMotBClhTiSGpckfyNHf5H0C6c3UZ2Dwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271358341407-3ems1k5bdl3ae26fe4qmku723f9dffp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
