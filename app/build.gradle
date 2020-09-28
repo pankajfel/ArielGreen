@@ -10,6 +10,7 @@ if (keystorePropertiesFile.exists()) {
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
 
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
@@ -37,16 +38,32 @@ android {
 
     productFlavors {
 
+        flavourSMARTBRAIN {
+            applicationIdSuffix '.bluewinter'
+        }
+
+        flavourONNET {
+            applicationIdSuffix '.supermint'
+        }
+
+        flavourGRANDT {
+            applicationIdSuffix '.finestream'
+        }
+
+        flavourSTUDYS {
+            applicationIdSuffix '.graysea'
+        }
+
+        flavourPRABHUA {
+            applicationIdSuffix '.greentime'
+        }
+
         flavourTHEVOID {
             applicationIdSuffix '.thevoid'
         }
 
         flavourHALFLIME {
             applicationIdSuffix '.halflime'
-        }
-
-        flavourFINESTREAM {
-            applicationIdSuffix '.finestream'
         }
 
         flavourNEOTECH {
@@ -57,24 +74,8 @@ android {
             applicationIdSuffix '.neonteal'
         }
 
-        flavourBLUEWINTER {
-            applicationIdSuffix '.bluewinter'
-        }
-
-        flavourGREENTIME {
-            applicationIdSuffix '.greentime'
-        }
-
-        flavourGRAYSEA {
-            applicationIdSuffix '.graysea'
-        }
-
         flavourREDVALVET {
             applicationIdSuffix '.redvalvet'
-        }
-
-        flavourSUPERMINT {
-            applicationIdSuffix '.supermint'
         }
 
         flavourMINTBLUE {

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f5700a</color>
+    <color name="rippleColor">#fc9222</color>
+    <color name="colorPrimaryDark">#f55c0a</color>
+    <color name="colorAccent">#f6981e</color>
+</resources>
