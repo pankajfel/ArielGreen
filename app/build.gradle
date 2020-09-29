@@ -41,7 +41,7 @@ android {
         flavourSMARTBRAIN {
             applicationIdSuffix '.bluewinter'
         }
-
+//comment
         flavourONNET {
             applicationIdSuffix '.supermint'
         }
