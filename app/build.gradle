@@ -41,7 +41,7 @@ android {
             applicationIdSuffix '.thevoid'
         }
 
-        //some comment
+        //some commen
 
         flavourHALFLIME {
             applicationIdSuffix '.halflime'
