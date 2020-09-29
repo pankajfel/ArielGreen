@@ -9,7 +9,7 @@ File keystorePropertiesFile = rootProject.file('key.properties')
 if (keystorePropertiesFile.exists()) {
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
-
+//comment
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
