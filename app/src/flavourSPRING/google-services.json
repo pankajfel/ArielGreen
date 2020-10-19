@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40745641739",
+    "firebase_url": "https://spring-fel.firebaseio.com",
+    "project_id": "spring-fel",
+    "storage_bucket": "spring-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40745641739:android:214611498c56bfea8ea40e",
+        "android_client_info": {
+          "package_name": "com.fel.spring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40745641739-iidagp9b5g9gj5nk924mg3m0l9qnhi93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.spring",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "40745641739-4e2g67arhjkvn857l4fe9krf943n64k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9JTHzz1TKhOZ0rHcca_5Tesmm7hDtZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40745641739-4e2g67arhjkvn857l4fe9krf943n64k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

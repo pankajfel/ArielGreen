@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367150085347",
+    "firebase_url": "https://ipseity-fel.firebaseio.com",
+    "project_id": "ipseity-fel",
+    "storage_bucket": "ipseity-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367150085347:android:d33472d0f15261aead81d6",
+        "android_client_info": {
+          "package_name": "com.fel.ipseity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367150085347-tonvs0p3as0lj0630131nkbk71se0e0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.ipseity",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "367150085347-3ou4dend82je1hv9qlrq7u3rv5jc9j4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkQG99qoRRmbgL_AaCvEkKHBqwc5oeww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367150085347-3ou4dend82je1hv9qlrq7u3rv5jc9j4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

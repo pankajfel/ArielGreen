@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "896052706748",
+    "firebase_url": "https://icepop-fel.firebaseio.com",
+    "project_id": "icepop-fel",
+    "storage_bucket": "icepop-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896052706748:android:9d5f4d74a0e75e055c7fb9",
+        "android_client_info": {
+          "package_name": "com.fel.icepop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896052706748-jumoslhqrka8orbcvrm0f2of8jbiv9n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.icepop",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "896052706748-0l2ubhpfq13521r4l6k0lkjgodk7vgls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgweUXzIk_8mBVh9jFm3uhl0sPQAwCyVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896052706748-0l2ubhpfq13521r4l6k0lkjgodk7vgls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

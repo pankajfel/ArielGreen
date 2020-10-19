@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350598249287",
+    "firebase_url": "https://vostard-fel.firebaseio.com",
+    "project_id": "vostard-fel",
+    "storage_bucket": "vostard-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350598249287:android:9c68c326857560d7fe6a62",
+        "android_client_info": {
+          "package_name": "com.fel.vostard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350598249287-g6oro3pq8lcd8spl05kvk1aj8la3uim2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.vostard",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "350598249287-q0t61mcsgf7qa84u5ppafhsrhael0ms3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupmpp0AgAGkzfR4OHT0hLGLuMMIzP5lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350598249287-q0t61mcsgf7qa84u5ppafhsrhael0ms3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

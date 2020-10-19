@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842764602222",
+    "firebase_url": "https://breeze-fel.firebaseio.com",
+    "project_id": "breeze-fel",
+    "storage_bucket": "breeze-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842764602222:android:db2c05b3c5cbb05a5d0f7f",
+        "android_client_info": {
+          "package_name": "com.fel.breeze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842764602222-s9irp1k4e3cejaqnd0908jfov1ddqu49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.breeze",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "842764602222-atrq60sn84rk8c92o03cu8bdj8ijfeng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALaDP5Xw8RKYVj0b7xKjJRVmbz0bzYN3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842764602222-atrq60sn84rk8c92o03cu8bdj8ijfeng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

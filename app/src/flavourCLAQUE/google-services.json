@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081307704262",
+    "firebase_url": "https://claque-fel.firebaseio.com",
+    "project_id": "claque-fel",
+    "storage_bucket": "claque-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081307704262:android:3fdd3da7fd5b9401d020c7",
+        "android_client_info": {
+          "package_name": "com.fel.claque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081307704262-t5lsulu1qfrmtic0fvauim1kos1adjqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.claque",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1081307704262-en8mknq8jppudg8lueb4gk80281jtje6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA70iGRigt0Hhlk8w9cSZ1CSBrOq1oCRiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081307704262-en8mknq8jppudg8lueb4gk80281jtje6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

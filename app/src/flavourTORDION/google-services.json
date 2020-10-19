@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809258967510",
+    "firebase_url": "https://tordion-fel.firebaseio.com",
+    "project_id": "tordion-fel",
+    "storage_bucket": "tordion-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809258967510:android:caf0945df97c60e162c477",
+        "android_client_info": {
+          "package_name": "com.fel.tordion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809258967510-3al7ibvgn4q6qs2oivb82l53omof6umo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.tordion",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "809258967510-9j15c5u49fpjlo1lenrd7e6plnc8hbbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcieQmNhVl48-FuwiExT8Mdg0HB3HbOwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809258967510-9j15c5u49fpjlo1lenrd7e6plnc8hbbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,7 +9,7 @@ File keystorePropertiesFile = rootProject.file('key.properties')
 if (keystorePropertiesFile.exists()) {
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
-//comment
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
@@ -37,49 +37,66 @@ android {
 
     productFlavors {
 
-        flavourTHEVOID {
-            applicationIdSuffix '.thevoid'
+        flavourVOSTARD {
+            applicationIdSuffix '.vostard'
         }
 
-        flavourHALFLIME {
-            applicationIdSuffix '.halflime'
+        flavourSKYTAN {
+            applicationIdSuffix '.skytan'
         }
 
-        flavourFINESTREAM {
-            applicationIdSuffix '.finestream'
+        flavourBREEZE {
+            applicationIdSuffix '.breeze'
         }
 
-        flavourNEOTECH {
-            applicationIdSuffix '.neotech'
+        flavourICEPOP {
+            applicationIdSuffix '.icepop'
         }
 
-        flavourNEONTEAL {
-            applicationIdSuffix '.neonteal'
+        flavourMEDIUM {
+            applicationIdSuffix '.medium'
         }
 
-        flavourBLUEWINTER {
-            applicationIdSuffix '.bluewinter'
+        flavourRADIUM {
+            applicationIdSuffix '.radium'
         }
 
-        flavourGREENTIME {
-            applicationIdSuffix '.greentime'
+        flavourSPRING {
+            applicationIdSuffix '.spring'
         }
 
-        flavourGRAYSEA {
-            applicationIdSuffix '.graysea'
+        flavourCAMBIUM {
+            applicationIdSuffix '.cambium'
         }
 
-        flavourREDVALVET {
-            applicationIdSuffix '.redvalvet'
+        flavourTORDION {
+            applicationIdSuffix '.tordion'
         }
 
-        flavourSUPERMINT {
-            applicationIdSuffix '.supermint'
+        flavourHOCCO {
+            applicationIdSuffix '.hocco'
         }
 
-        flavourMINTBLUE {
-            applicationIdSuffix '.mintblue'
+        flavourOLIVET {
+            applicationIdSuffix '.olivet'
         }
+
+        flavourVORANT {
+            applicationIdSuffix '.vorant'
+        }
+
+        flavourIPSEITY {
+            applicationIdSuffix '.ipseity'
+        }
+
+        flavourEUTONY {
+            applicationIdSuffix '.eutony'
+        }
+
+        flavourCLAQUE {
+            applicationIdSuffix '.claque'
+        }
+
 
     }
 
