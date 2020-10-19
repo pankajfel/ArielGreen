@@ -97,6 +97,34 @@ android {
             applicationIdSuffix '.claque'
         }
 
+        flavourEUTROPIC {
+            applicationIdSuffix '.eutropic'
+        }
+
+        flavourPHOTIC {
+            applicationIdSuffix '.photic'
+        }
+
+        flavourPLUTONIC {
+            applicationIdSuffix '.plutonic'
+        }
+
+        flavourLIGNIFY {
+            applicationIdSuffix '.lignify'
+        }
+
+        flavourEMYS {
+            applicationIdSuffix '.emys'
+        }
+
+        flavourOCULUS {
+            applicationIdSuffix '.oculus'
+        }
+
+        flavourAURIFEX {
+            applicationIdSuffix '.aurifex'
+        }
+
 
     }
 
