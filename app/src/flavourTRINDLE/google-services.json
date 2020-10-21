@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91765683293",
+    "firebase_url": "https://trindle-fel.firebaseio.com",
+    "project_id": "trindle-fel",
+    "storage_bucket": "trindle-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91765683293:android:91b42275486cd2a49089b4",
+        "android_client_info": {
+          "package_name": "com.fel.trindle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91765683293-ecsqs0edembie1kq5uslopvthtojk30n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.trindle",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "91765683293-o2mj0slg2e7dto5gq9skoe4r7fk66o9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWaodxra0oQo971qwyS-wikpqozbNhavA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91765683293-o2mj0slg2e7dto5gq9skoe4r7fk66o9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

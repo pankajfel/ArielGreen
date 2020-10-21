@@ -37,14 +37,6 @@ android {
 
     productFlavors {
 
-        flavourVOSTARD {
-            applicationIdSuffix '.vostard'
-        }
-
-        flavourSKYTAN {
-            applicationIdSuffix '.skytan'
-        }
-
         flavourBREEZE {
             applicationIdSuffix '.breeze'
         }
@@ -123,6 +115,66 @@ android {
 
         flavourAURIFEX {
             applicationIdSuffix '.aurifex'
+        }
+
+        flavourZONOID {
+            applicationIdSuffix '.zonoid'
+        }
+
+        flavourPALFREY {
+            applicationIdSuffix '.palfrey'
+        }
+
+        flavourRUSSET {
+            applicationIdSuffix '.russet'
+        }
+
+        flavourSPEOS {
+            applicationIdSuffix '.speos'
+        }
+
+        flavourHECTOR {
+            applicationIdSuffix '.hector'
+        }
+
+        flavourISOGEN {
+            applicationIdSuffix '.isogen'
+        }
+
+        flavourIMPAVID {
+            applicationIdSuffix '.impavid'
+        }
+
+        flavourBINATE {
+            applicationIdSuffix '.binate'
+        }
+        
+        flavourPARALLAX {
+            applicationIdSuffix '.parallax'
+        }
+
+        flavourTRINDLE {
+            applicationIdSuffix '.trindle'
+        }
+
+        flavourORBIFIC {
+            applicationIdSuffix '.orbific'
+        }
+
+        flavourABELE {
+            applicationIdSuffix '.abele'
+        }
+
+        flavourLODEN {
+            applicationIdSuffix '.loden'
+        }
+
+        flavourLEXIS {
+            applicationIdSuffix '.lexis'
+        }
+
+        flavourXYLEM {
+            applicationIdSuffix '.xylem'
         }
 
 

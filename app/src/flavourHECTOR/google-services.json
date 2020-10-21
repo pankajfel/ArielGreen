@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335085140897",
+    "firebase_url": "https://hector-fel.firebaseio.com",
+    "project_id": "hector-fel",
+    "storage_bucket": "hector-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335085140897:android:39d6605175035653ad69e0",
+        "android_client_info": {
+          "package_name": "com.fel.hector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335085140897-kd7apusbd31qgo8fn1ku0tfvbait1bl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.hector",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "335085140897-c71v37341vu1680jm1kljl6lknteth60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCT5UdAUEKXRJ3hMeWiDwmeuYYi61PcEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335085140897-c71v37341vu1680jm1kljl6lknteth60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

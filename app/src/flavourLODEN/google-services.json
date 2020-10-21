@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20496131561",
+    "firebase_url": "https://loden-fel.firebaseio.com",
+    "project_id": "loden-fel",
+    "storage_bucket": "loden-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20496131561:android:36e442b6fbe95cd28c5778",
+        "android_client_info": {
+          "package_name": "com.fel.loden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20496131561-u0sls3dm2jbifk28te63qaeosvk6s851.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.loden",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "20496131561-trvbmidg66nn5kvqcfcbhlus11avnj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWRZMt7G-ujopX-iMadP2lR6dGy07a8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20496131561-trvbmidg66nn5kvqcfcbhlus11avnj3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

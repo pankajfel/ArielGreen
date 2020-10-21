@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1185369336",
+    "firebase_url": "https://russet-fel.firebaseio.com",
+    "project_id": "russet-fel",
+    "storage_bucket": "russet-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1185369336:android:f32d06b4c8910faf1e3f0d",
+        "android_client_info": {
+          "package_name": "com.fel.russet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1185369336-tcdeps1gobt1jpp0vfd9dijemh5b3sk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.russet",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1185369336-r33v6ugaq0cct9kt5ureq9rghlcdfiqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2Jw9l9vi7kek1LWmOwC5FvJigJFxixk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1185369336-r33v6ugaq0cct9kt5ureq9rghlcdfiqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

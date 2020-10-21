@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218260164833",
+    "firebase_url": "https://parallax-fel.firebaseio.com",
+    "project_id": "parallax-fel",
+    "storage_bucket": "parallax-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218260164833:android:ddbe58fbcfd1bd376327a0",
+        "android_client_info": {
+          "package_name": "com.fel.parallax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218260164833-4s90higtsmfibc9n7e1lqdnsiu5lt1ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.parallax",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "218260164833-djqmnlbb1atdqak9s86p4v6mmmar6124.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyRtBWOCqV0SbQJhgO2FlVs6-j5u_vbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218260164833-djqmnlbb1atdqak9s86p4v6mmmar6124.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
