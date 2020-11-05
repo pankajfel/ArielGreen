@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351175822941",
+    "firebase_url": "https://impavid-fel.firebaseio.com",
+    "project_id": "impavid-fel",
+    "storage_bucket": "impavid-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351175822941:android:1eb6c77dcbded83b5ac7b4",
+        "android_client_info": {
+          "package_name": "com.fel.impavid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351175822941-tu5ed10n9ud8elgpvh55a406baopj308.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.impavid",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "351175822941-7lf7ctndjeij5a4al6v6od44eib4cies.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVd18z5cPQdlcpaaHftQ0KaCEJDfOM4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351175822941-7lf7ctndjeij5a4al6v6od44eib4cies.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

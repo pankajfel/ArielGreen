@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888573582942",
+    "firebase_url": "https://palfrey-fel.firebaseio.com",
+    "project_id": "palfrey-fel",
+    "storage_bucket": "palfrey-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888573582942:android:db817fe9b09a3b87861ecf",
+        "android_client_info": {
+          "package_name": "com.fel.palfrey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888573582942-uui3e204pstt7sjhtmv2f4h0bsosiogp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.palfrey",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "888573582942-3vr41lv52ki68d2vslul79enlhof4db0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3TXUU36fxGk0PoTeVUgRcTUcnVD-gfiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888573582942-3vr41lv52ki68d2vslul79enlhof4db0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

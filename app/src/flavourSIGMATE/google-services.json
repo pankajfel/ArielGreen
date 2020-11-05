@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190895817587",
+    "firebase_url": "https://sigmate-fel.firebaseio.com",
+    "project_id": "sigmate-fel",
+    "storage_bucket": "sigmate-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190895817587:android:de838fe54b57d476b4bb06",
+        "android_client_info": {
+          "package_name": "com.fel.sigmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190895817587-114ea1rk4aa1arh063pooid2efe0vkve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.sigmate",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "190895817587-0h3sjgabf4gl89bri3jfoven78u43frn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8stKU5rdt88pxse4Q2Th4KFvWC9lCNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190895817587-0h3sjgabf4gl89bri3jfoven78u43frn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

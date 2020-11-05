@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334086048487",
+    "firebase_url": "https://fusain-fel.firebaseio.com",
+    "project_id": "fusain-fel",
+    "storage_bucket": "fusain-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334086048487:android:f9c89727899670e46eb042",
+        "android_client_info": {
+          "package_name": "com.fel.fusain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334086048487-udf0hdoj9dgcsnl4ajmquoeqvm6bvu1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.fusain",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "334086048487-23uhmo9ck3kvnej1ntcmjvls0l0v0adt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAYqB0oU0mfuc90m40geV82JwcI5aec8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334086048487-23uhmo9ck3kvnej1ntcmjvls0l0v0adt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

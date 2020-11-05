@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633976072981",
+    "firebase_url": "https://stentor-fel.firebaseio.com",
+    "project_id": "stentor-fel",
+    "storage_bucket": "stentor-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633976072981:android:1d462fe62317008597971c",
+        "android_client_info": {
+          "package_name": "com.fel.stentor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633976072981-92ictfhmukp4lbrdcf2mm7r14tv9vc03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.stentor",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "633976072981-7lfm3d7heqnfg20dnpc7ae8jap6lihvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9D-6o5_4GqtSWnnucuJW26NdiGkJWVoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633976072981-7lfm3d7heqnfg20dnpc7ae8jap6lihvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

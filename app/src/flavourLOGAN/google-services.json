@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958543545488",
+    "firebase_url": "https://logan-fel.firebaseio.com",
+    "project_id": "logan-fel",
+    "storage_bucket": "logan-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958543545488:android:02adce4d47a34504990415",
+        "android_client_info": {
+          "package_name": "com.fel.logan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958543545488-1sjn2qhunut01ohtdjbvialhl2e1maub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.logan",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "958543545488-ashu73c8vq6u3j95735d7qp1rp48l0v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEouL_bQxtRj3j0IaiO-em_ZNDSnxHSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958543545488-ashu73c8vq6u3j95735d7qp1rp48l0v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
-String felVersionCode = '148'
+String felVersionCode = '150'
 
-String felVersionName = '14.8'
+String felVersionName = '15.0'
 
 Properties keystoreProperties = new Properties()
 File keystorePropertiesFile = rootProject.file('key.properties')
@@ -37,56 +37,8 @@ android {
 
     productFlavors {
 
-        flavourBREEZE {
-            applicationIdSuffix '.breeze'
-        }
-
-        flavourICEPOP {
-            applicationIdSuffix '.icepop'
-        }
-
-        flavourMEDIUM {
-            applicationIdSuffix '.medium'
-        }
-
-        flavourRADIUM {
-            applicationIdSuffix '.radium'
-        }
-
-        flavourSPRING {
-            applicationIdSuffix '.spring'
-        }
-
-        flavourCAMBIUM {
-            applicationIdSuffix '.cambium'
-        }
-
-        flavourTORDION {
-            applicationIdSuffix '.tordion'
-        }
-
-        flavourHOCCO {
-            applicationIdSuffix '.hocco'
-        }
-
-        flavourOLIVET {
-            applicationIdSuffix '.olivet'
-        }
-
-        flavourVORANT {
-            applicationIdSuffix '.vorant'
-        }
-
         flavourIPSEITY {
             applicationIdSuffix '.ipseity'
-        }
-
-        flavourEUTONY {
-            applicationIdSuffix '.eutony'
-        }
-
-        flavourCLAQUE {
-            applicationIdSuffix '.claque'
         }
 
         flavourEUTROPIC {
@@ -109,10 +61,6 @@ android {
             applicationIdSuffix '.emys'
         }
 
-        flavourOCULUS {
-            applicationIdSuffix '.oculus'
-        }
-
         flavourAURIFEX {
             applicationIdSuffix '.aurifex'
         }
@@ -123,10 +71,6 @@ android {
 
         flavourPALFREY {
             applicationIdSuffix '.palfrey'
-        }
-
-        flavourRUSSET {
-            applicationIdSuffix '.russet'
         }
 
         flavourSPEOS {
@@ -147,10 +91,6 @@ android {
 
         flavourBINATE {
             applicationIdSuffix '.binate'
-        }
-        
-        flavourPARALLAX {
-            applicationIdSuffix '.parallax'
         }
 
         flavourTRINDLE {
@@ -177,6 +117,54 @@ android {
             applicationIdSuffix '.xylem'
         }
 
+        flavourRIANT {
+            applicationIdSuffix '.riant'
+        }
+
+        flavourKYLOE {
+            applicationIdSuffix '.kyloe'
+        }
+
+        flavourLOGAN {
+            applicationIdSuffix '.logan'
+        }
+
+        flavourSTENTOR {
+            applicationIdSuffix '.stentor'
+        }
+
+        flavourFUSAIN {
+            applicationIdSuffix '.fusain'
+        }
+
+        flavourSLOYD {
+            applicationIdSuffix '.sloyd'
+        }
+
+        flavourPANTALEON {
+            applicationIdSuffix '.pantaleon'
+        }
+
+
+
+//sk-web
+
+        flavourKLAXON {
+            applicationIdSuffix '.klaxon'
+        }
+
+        flavourPLEXURE {
+            applicationIdSuffix '.plexure'
+        }
+
+        flavourYALE {
+            applicationIdSuffix '.yale'
+        }
+
+        flavourSIGMATE {
+            applicationIdSuffix '.sigmate'
+        }
+        
 
     }
 
@@ -202,13 +190,13 @@ dependencies {
 
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     //firebase
-    implementation 'com.google.firebase:firebase-analytics:17.5.0'
+    implementation 'com.google.firebase:firebase-analytics:18.0.0'
 
     //design
     implementation 'com.google.android.material:material:1.2.1'

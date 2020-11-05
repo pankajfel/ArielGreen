@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001252249801",
+    "firebase_url": "https://sloyd-fel.firebaseio.com",
+    "project_id": "sloyd-fel",
+    "storage_bucket": "sloyd-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001252249801:android:99206ec44344c518322d18",
+        "android_client_info": {
+          "package_name": "com.fel.sloyd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001252249801-682ntmnflifh0p7c8gf5f228c2u7lkop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.sloyd",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1001252249801-putl2tptj9m0t78mcbuiu9i7vu7anp74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxxdtDsiz2sfcseyvvjlk5npckUTYiKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001252249801-putl2tptj9m0t78mcbuiu9i7vu7anp74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

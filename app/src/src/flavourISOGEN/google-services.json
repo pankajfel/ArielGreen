@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119999678271",
+    "firebase_url": "https://isogen-fel.firebaseio.com",
+    "project_id": "isogen-fel",
+    "storage_bucket": "isogen-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119999678271:android:10fdd4607f538a0649758a",
+        "android_client_info": {
+          "package_name": "com.fel.isogen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119999678271-4d2sdmphn5b9nv7j5ruo6q4cp7urufnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.isogen",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "119999678271-epamvg3upod2masufsh9afcphsu3nj4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UYXY_P1Pfo3FrvCFQYxcBb3dqZUSsmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119999678271-epamvg3upod2masufsh9afcphsu3nj4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088691802627",
+    "firebase_url": "https://eutropic-fel.firebaseio.com",
+    "project_id": "eutropic-fel",
+    "storage_bucket": "eutropic-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088691802627:android:c210ed42aeb904a558b436",
+        "android_client_info": {
+          "package_name": "com.fel.eutropic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088691802627-ie49rrmpakj6f46opuh55cbrf1nucvh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.eutropic",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1088691802627-efbrvmnee0t822k1f3mcc80k5na9spot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOvEycghKKh9zFH95kFIR1NnCuD2hQ84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088691802627-efbrvmnee0t822k1f3mcc80k5na9spot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

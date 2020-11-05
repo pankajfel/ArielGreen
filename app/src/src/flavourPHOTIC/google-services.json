@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724036259721",
+    "firebase_url": "https://photic-fel.firebaseio.com",
+    "project_id": "photic-fel",
+    "storage_bucket": "photic-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724036259721:android:df3011cb23dd77dcf4db58",
+        "android_client_info": {
+          "package_name": "com.fel.photic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724036259721-l03p8s7cc3sppboj729tm9qt01046f5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.photic",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "724036259721-5a8r28ca8u2qrfja855onenv5apc2h59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCazberA1p0sMC0t7qNENtNIkp26wFnjmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724036259721-5a8r28ca8u2qrfja855onenv5apc2h59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
