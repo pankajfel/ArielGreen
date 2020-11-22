@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660507841733",
+    "firebase_url": "https://strongbaca-fel.firebaseio.com",
+    "project_id": "strongbaca-fel",
+    "storage_bucket": "strongbaca-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660507841733:android:d32454dc2e3bfb70494cac",
+        "android_client_info": {
+          "package_name": "com.fel.strongbaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660507841733-9lrtrf7cvhcdjqfk70lkla809b8jibef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.strongbaca",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "660507841733-r1j3cl0hd8k2e6l4ibm644l6dgd6r6ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkbdPhI-sJ5KsJWLnIQo0YDO6fa_N49g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660507841733-r1j3cl0hd8k2e6l4ibm644l6dgd6r6ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

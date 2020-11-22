@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
-String felVersionCode = '150'
+String felVersionCode = '151'
 
-String felVersionName = '15.0'
+String felVersionName = '15.1'
 
 Properties keystoreProperties = new Properties()
 File keystorePropertiesFile = rootProject.file('key.properties')
@@ -37,84 +37,8 @@ android {
 
     productFlavors {
 
-        flavourIPSEITY {
-            applicationIdSuffix '.ipseity'
-        }
-
-        flavourEUTROPIC {
-            applicationIdSuffix '.eutropic'
-        }
-
-        flavourPHOTIC {
-            applicationIdSuffix '.photic'
-        }
-
-        flavourPLUTONIC {
-            applicationIdSuffix '.plutonic'
-        }
-
-        flavourLIGNIFY {
-            applicationIdSuffix '.lignify'
-        }
-
-        flavourEMYS {
-            applicationIdSuffix '.emys'
-        }
-
-        flavourAURIFEX {
-            applicationIdSuffix '.aurifex'
-        }
-
-        flavourZONOID {
-            applicationIdSuffix '.zonoid'
-        }
-
-        flavourPALFREY {
-            applicationIdSuffix '.palfrey'
-        }
-
-        flavourSPEOS {
-            applicationIdSuffix '.speos'
-        }
-
-        flavourHECTOR {
-            applicationIdSuffix '.hector'
-        }
-
-        flavourISOGEN {
-            applicationIdSuffix '.isogen'
-        }
-
-        flavourIMPAVID {
-            applicationIdSuffix '.impavid'
-        }
-
-        flavourBINATE {
-            applicationIdSuffix '.binate'
-        }
-
-        flavourTRINDLE {
-            applicationIdSuffix '.trindle'
-        }
-
-        flavourORBIFIC {
-            applicationIdSuffix '.orbific'
-        }
-
-        flavourABELE {
-            applicationIdSuffix '.abele'
-        }
-
-        flavourLODEN {
-            applicationIdSuffix '.loden'
-        }
-
         flavourLEXIS {
             applicationIdSuffix '.lexis'
-        }
-
-        flavourXYLEM {
-            applicationIdSuffix '.xylem'
         }
 
         flavourRIANT {
@@ -129,42 +53,37 @@ android {
             applicationIdSuffix '.logan'
         }
 
-        flavourSTENTOR {
-            applicationIdSuffix '.stentor'
-        }
-
         flavourFUSAIN {
             applicationIdSuffix '.fusain'
-        }
-
-        flavourSLOYD {
-            applicationIdSuffix '.sloyd'
         }
 
         flavourPANTALEON {
             applicationIdSuffix '.pantaleon'
         }
 
+        flavourARIELGREEN {
+            applicationIdSuffix '.arielgreen'
+        }
+
+        flavourGREYGLOVE {
+            applicationIdSuffix '.greyglove'
+        }
+
+        flavourSTENTOR {
+            applicationIdSuffix '.stentor'
+        }
+
+        flavourSTRONGBACA {
+            applicationIdSuffix '.strongbaca'
+        }
+
+
+
 
 
 //sk-web
 
-        flavourKLAXON {
-            applicationIdSuffix '.klaxon'
-        }
 
-        flavourPLEXURE {
-            applicationIdSuffix '.plexure'
-        }
-
-        flavourYALE {
-            applicationIdSuffix '.yale'
-        }
-
-        flavourSIGMATE {
-            applicationIdSuffix '.sigmate'
-        }
-        
 
     }
 

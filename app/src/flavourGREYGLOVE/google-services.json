@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043250538582",
+    "firebase_url": "https://greyglove-fel.firebaseio.com",
+    "project_id": "greyglove-fel",
+    "storage_bucket": "greyglove-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043250538582:android:0fd838d1ec73143934f3f7",
+        "android_client_info": {
+          "package_name": "com.fel.greyglove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043250538582-54s04n79ommvnle8aqnec5i9val5u67f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.greyglove",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1043250538582-s8ik1lq4bcs7pknbh82695mlht9jbmgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xA7WkKtNh-WDM-rbTZwaW9qVKFPTSDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043250538582-s8ik1lq4bcs7pknbh82695mlht9jbmgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

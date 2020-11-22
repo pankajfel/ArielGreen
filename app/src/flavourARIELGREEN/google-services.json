@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258083405442",
+    "firebase_url": "https://arielgreen-fel.firebaseio.com",
+    "project_id": "arielgreen-fel",
+    "storage_bucket": "arielgreen-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258083405442:android:5867984bcc094ccdd0be9b",
+        "android_client_info": {
+          "package_name": "com.fel.arielgreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258083405442-s950qhe6bmfo2ldqrqagnneh71vpfh8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.arielgreen",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "258083405442-eru6bvg078ct2jd7rq8mhr5jhjcfcb3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATH1skTGknUMe6uMgteR3XyxJSggG48rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258083405442-eru6bvg078ct2jd7rq8mhr5jhjcfcb3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
