@@ -37,12 +37,8 @@ android {
 
     productFlavors {
 
-        flavourLEXIS {
-            applicationIdSuffix '.lexis'
-        }
-
-        flavourRIANT {
-            applicationIdSuffix '.riant'
+        flavourZEC {
+            applicationIdSuffix '.speos'
         }
 
         flavourKYLOE {
@@ -76,6 +72,7 @@ android {
         flavourSTRONGBACA {
             applicationIdSuffix '.strongbaca'
         }
+
 
 
 
