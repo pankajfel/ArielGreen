@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595102634782",
+    "firebase_url": "https://medium-fel.firebaseio.com",
+    "project_id": "medium-fel",
+    "storage_bucket": "medium-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595102634782:android:4fcd91f4734f402dae6f0f",
+        "android_client_info": {
+          "package_name": "com.fel.medium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595102634782-atcuk74cfvr5s4a6n8r900q9lh9pug3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.medium",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "595102634782-qeokhjr9jk4c69e4nqucneqc0ibnsa72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPMbs2J0wqAYVPR53c6J0qpJW2JsQkAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595102634782-qeokhjr9jk4c69e4nqucneqc0ibnsa72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

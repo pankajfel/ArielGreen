@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
-String felVersionCode = '148'
+String felVersionCode = '151'
 
-String felVersionName = '14.8'
+String felVersionName = '15.1'
 
 Properties keystoreProperties = new Properties()
 File keystorePropertiesFile = rootProject.file('key.properties')
 if (keystorePropertiesFile.exists()) {
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
-//comment
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
@@ -37,49 +37,50 @@ android {
 
     productFlavors {
 
-        flavourTHEVOID {
-            applicationIdSuffix '.thevoid'
+        flavourZEC {
+            applicationIdSuffix '.speos'
         }
 
-        flavourHALFLIME {
-            applicationIdSuffix '.halflime'
+        flavourKYLOE {
+            applicationIdSuffix '.kyloe'
         }
 
-        flavourFINESTREAM {
-            applicationIdSuffix '.finestream'
+        flavourLOGAN {
+            applicationIdSuffix '.logan'
         }
 
-        flavourNEOTECH {
-            applicationIdSuffix '.neotech'
+        flavourFUSAIN {
+            applicationIdSuffix '.fusain'
         }
 
-        flavourNEONTEAL {
-            applicationIdSuffix '.neonteal'
+        flavourPANTALEON {
+            applicationIdSuffix '.pantaleon'
         }
 
-        flavourBLUEWINTER {
-            applicationIdSuffix '.bluewinter'
+        flavourARIELGREEN {
+            applicationIdSuffix '.arielgreen'
         }
 
-        flavourGREENTIME {
-            applicationIdSuffix '.greentime'
+        flavourGREYGLOVE {
+            applicationIdSuffix '.greyglove'
         }
 
-        flavourGRAYSEA {
-            applicationIdSuffix '.graysea'
+        flavourSTENTOR {
+            applicationIdSuffix '.stentor'
         }
 
-        flavourREDVALVET {
-            applicationIdSuffix '.redvalvet'
+        flavourSTRONGBACA {
+            applicationIdSuffix '.strongbaca'
         }
 
-        flavourSUPERMINT {
-            applicationIdSuffix '.supermint'
-        }
 
-        flavourMINTBLUE {
-            applicationIdSuffix '.mintblue'
-        }
+
+
+
+
+//sk-web
+
+
 
     }
 
@@ -105,13 +106,13 @@ dependencies {
 
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     //firebase
-    implementation 'com.google.firebase:firebase-analytics:17.5.0'
+    implementation 'com.google.firebase:firebase-analytics:18.0.0'
 
     //design
     implementation 'com.google.android.material:material:1.2.1'

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722009307227",
+    "firebase_url": "https://abele-fel.firebaseio.com",
+    "project_id": "abele-fel",
+    "storage_bucket": "abele-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722009307227:android:b21195bb21ded35487277e",
+        "android_client_info": {
+          "package_name": "com.fel.abele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722009307227-93o5k1q9tg8pi8u1me804vjm7sfpcsqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.abele",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "722009307227-a2biqto9c6o3ctgi1mirp771s8eru7t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4Kwvo3N0YjOQRHZpCeIDtseKqbiaPxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722009307227-a2biqto9c6o3ctgi1mirp771s8eru7t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

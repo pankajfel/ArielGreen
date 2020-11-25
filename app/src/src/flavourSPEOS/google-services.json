@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95070631736",
+    "firebase_url": "https://speos-fel.firebaseio.com",
+    "project_id": "speos-fel",
+    "storage_bucket": "speos-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95070631736:android:7a7319d7bd7b02775e33cd",
+        "android_client_info": {
+          "package_name": "com.fel.speos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95070631736-1vmd6lmea98s30k6innnqihod4itpms2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.speos",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "95070631736-lsk4obst7ihkb23k00l9670qitmmlghh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABznfU3Z7Saxr1gztNsrm2HmuzbhK6z3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95070631736-lsk4obst7ihkb23k00l9670qitmmlghh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

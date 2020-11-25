@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436148801921",
+    "firebase_url": "https://tabby-fel.firebaseio.com",
+    "project_id": "tabby-fel",
+    "storage_bucket": "tabby-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436148801921:android:2139399b9091e67443d880",
+        "android_client_info": {
+          "package_name": "com.fel.tabby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436148801921-d8rpn5nf4aolq1hhttsfm0j28mialiir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.tabby",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "436148801921-i34aij6h7j19eefbfnop0ec1s3bifk6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCofe_Ovd-QVuAoNoFRGb_l726wQc7DECo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436148801921-i34aij6h7j19eefbfnop0ec1s3bifk6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

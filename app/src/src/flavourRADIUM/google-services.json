@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289681172149",
+    "firebase_url": "https://radium-fel.firebaseio.com",
+    "project_id": "radium-fel",
+    "storage_bucket": "radium-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289681172149:android:871f97e9e71e106374c0fc",
+        "android_client_info": {
+          "package_name": "com.fel.radium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289681172149-kbnqjg8d4pnk6fv3uq0bi4eleu2rp60o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.radium",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "289681172149-sdda2n6v3tittmjogb0adsmdi0kipt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWsn-s1v8K4rQ0_Z5zCNWbtZqwK3pv4Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289681172149-sdda2n6v3tittmjogb0adsmdi0kipt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

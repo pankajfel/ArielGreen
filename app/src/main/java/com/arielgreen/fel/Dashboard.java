@@ -11,14 +11,15 @@ public class Dashboard extends AppCompatActivity {
 
     TextView text;
     Bundle bundle;
-//newBranch Comment
-//newBranch Comment
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
-//newBranch Comment
-//newBranch Comment
+
+//master Comment
+//master Comment
+
         bundle = getIntent().getExtras();
         text = findViewById(R.id.text);
         text.setText("Hi, "+bundle.getString("user"));

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841590007387",
+    "firebase_url": "https://eutony-fel.firebaseio.com",
+    "project_id": "eutony-fel",
+    "storage_bucket": "eutony-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841590007387:android:c64d022334f3ef19cb817e",
+        "android_client_info": {
+          "package_name": "com.fel.eutony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841590007387-utavrqrplvgjo6lss2imlg83i30oqenb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.eutony",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "841590007387-uom1q2l500k92anshkr99mi0r49f9r54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB813sc2R10jAqXp_7h7twlZjheNdkoYZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841590007387-uom1q2l500k92anshkr99mi0r49f9r54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

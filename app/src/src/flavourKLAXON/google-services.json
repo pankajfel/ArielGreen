@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873086900929",
+    "firebase_url": "https://klaxon-fel.firebaseio.com",
+    "project_id": "klaxon-fel",
+    "storage_bucket": "klaxon-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873086900929:android:292d2befb998d1cba25240",
+        "android_client_info": {
+          "package_name": "com.fel.klaxon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873086900929-78dodnpr45lt0oqs90il519jff6lp0eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.klaxon",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "873086900929-b7s5m5a2a69pkg4kmjvcirt6nn4mbtgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqWffA7OFpv2U7XArK9R5FvRhzurw3bfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873086900929-b7s5m5a2a69pkg4kmjvcirt6nn4mbtgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

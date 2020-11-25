@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1057231861703",
+    "firebase_url": "https://kyloe-fel.firebaseio.com",
+    "project_id": "kyloe-fel",
+    "storage_bucket": "kyloe-fel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057231861703:android:afd91e208bbde69c634be2",
+        "android_client_info": {
+          "package_name": "com.fel.kyloe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057231861703-q8fkeau95q08rjtrag6l3ndkcg6nb60q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fel.kyloe",
+            "certificate_hash": "1195ba9ce735b3b3c4dbf482dcb4e251a1b2ed38"
+          }
+        },
+        {
+          "client_id": "1057231861703-pmc04sus2qapl77649etnqtm0stutlh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmOA2_DipHzvkgiqN0rdEswvrQDy4aiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057231861703-pmc04sus2qapl77649etnqtm0stutlh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
