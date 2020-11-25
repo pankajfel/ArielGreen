@@ -17,8 +17,8 @@ public class Dashboard extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
 
-//master Comment
-//master Comment
+//newBranch Comment
+//newBranch Comment
 
         bundle = getIntent().getExtras();
         text = findViewById(R.id.text);
